@@ -16,4 +16,3 @@ Angle values
 --------------------------------------------------------------------------------------------
 Contributed by Dr. Alireza Soroudi, University College Dublin, Dublin, Ireland.
 email: alireza.soroudi@gmail.com
-alireza.soroudi@ucd.ie
